@@ -4,6 +4,12 @@
 
 > 直播时间：2026年06月11日
 
+## 🌈❤️最新Stata课程--2017-2026年，数量经济学Stata课程已开设10年，10年Stata经典课程报名中！
+
+![](https://stata101.oss-cn-chengdu.aliyuncs.com/fig-metrics/Stata%E8%AF%BE%E7%A8%8B%E5%AE%A3%E4%BC%A0%E5%9B%BE%E7%89%87.png)
+
+
+
 > 来源：数量经济学微信公众号（计量经济学服务中心）
 > 
 > 数量经济学 &emsp; [计量经济网](https://www.aistata.cn/)  || [AI 工具导航](https://www.aistata.cn/AITools/) || [2017-2026年，10年Stata经典课程](https://www.aistata.cn/)  || [DID专题知识库](https://www.aistata.cn/blogs/DID2023.html)  || [AI 知识库](https://www.aistata.cn/2025AI.html)
@@ -11,6 +17,8 @@
 
 > ### [计量经济网](https://www.aistata.cn/)
 > 10年间，计量经济网依托于微信公众平台等累积了计量经济学及Eviews、Stata、SPSS、Matlab、Geoda、Python、ArcGIS、R等相关方法及软件操作的优质资源，旨在为大家分享经管人文社科等领域的相关知识，希望能帮助读者更好的学习计量。
+> 
+> ❤️最新资源、课程等相关信息，关注数量经济学微信公众号及[计量经济网](https://www.aistata.cn/)
 
 &emsp;
 
